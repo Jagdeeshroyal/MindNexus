@@ -1,0 +1,25 @@
+.response{
+    border: 0;
+    height: 300px;
+}
+
+.card{
+    margin: 20px;
+    border: none;
+}
+
+.container {
+    height: 1200px;
+
+}
+
+button{
+    margin: 10px 45% 0 45%;
+   
+}
+
+textarea{
+  font-size: larger;
+  color: grey;
+text-wrap: stable;}
+
